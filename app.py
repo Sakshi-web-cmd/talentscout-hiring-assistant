@@ -182,11 +182,11 @@ else:
     completion_percent = int((answered_q / total_q) * 100) if total_q > 0 else 0
 
     if completion_percent >= 70:
-        status = "Good attempt 👍"
+        status = "Good attempt "
     elif completion_percent >= 40:
-        status = "Partial attempt ⚠️"
+        status = "Partial attempt "
     else:
-        status = "Low attempt ❌"
+        status = "Low attempt "
 
     st.write(
         "Thank you for completing the initial screening.\n\n"
