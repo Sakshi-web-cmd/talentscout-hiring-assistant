@@ -112,7 +112,7 @@ No information is stored permanently or shared externally, ensuring compliance w
 
 ## Demo Video
 A short demo video demonstrating the chatbot’s functionality is available here:  
-**Demo Video Link:** https://drive.google.com/file/d/1g9hMl65IFrJu6Cug5vnXaHTvYKTwCfmx/view?usp=drivesdk
+**Demo Video Link:** [https://drive.google.com/file/d/1g9hMl65IFrJu6Cug5vnXaHTvYKTwCfmx/view?usp=drivesdk](https://drive.google.com/file/d/1Syae1d0DSYUbUkVQAB2LgJzJXH2xKPKV/view)
 
 ---
 
